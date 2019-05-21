@@ -6,8 +6,8 @@ O programa foi feito com Scratch 2.0. Precisa de um servidor feito em python por
 O servidor arranca com a instrução: s2aio -s 10.
 
 # Hardware necessário:
--Raspberry PI ou PC com Windows
--Arduino Uno ou compatível
+- Raspberry PI ou PC com Windows
+- Arduino Uno ou compatível
 -1 Resistência de 10 kOhm
 -1 Resistência variável com a luz (LDR)
 -1 Led (apenas para ver se programa está em funcionamento)
