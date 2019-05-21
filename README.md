@@ -3,7 +3,7 @@
 Esta demonstração destina-se a mostrar aplicação de um sensor de luz, LDR. 
 De acordo com a luminosidade a abelha sobe (mais luz) ou desce quando existe pouca luz. 
 O programa foi feito com Scratch 2.0. Precisa de um servidor feito em python por Alan Yorkis para efectuar a comunicação com o Arduino.
-O servidor arranca com a instrução: s2aio -s 10.
+O servidor arranca com a instrução: s2aio -s 10 (em Rasberry, apenas no Windows 10, que é mais burro, é necessário indicar a porta de comunicação do arduino).
 
 # Hardware necessário:
 - Raspberry PI ou PC com Windows
