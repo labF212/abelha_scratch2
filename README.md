@@ -8,16 +8,16 @@ O servidor arranca com a instrução: s2aio -s 10.
 # Hardware necessário:
 - Raspberry PI ou PC com Windows
 - Arduino Uno ou compatível
--1 Resistência de 10 kOhm
--1 Resistência variável com a luz (LDR)
--1 Led (apenas para ver se programa está em funcionamento)
+- 1 Resistência de 10 kOhm
+- 1 Resistência variável com a luz (LDR)
+- 1 Led (apenas para ver se programa está em funcionamento)
 
 # Software:
--Scratch 2.0 (a instalar apenas no Windows)
--Python (a instalar apenas no Windows)
--s2aio (a instalar no PC)
--Arduino IDE (a instalar no PC)
--FirmataPlus (a isntralar no arduino)
+- Scratch 2.0 (a instalar apenas no Windows)
+- Python (a instalar apenas no Windows)
+- s2aio (a instalar no PC)
+- Arduino IDE (a instalar no PC)
+- FirmataPlus (a isntralar no arduino)
 
 Seguir a página de instalação:
 https://github.com/MrYsLab/s2aio/wiki
